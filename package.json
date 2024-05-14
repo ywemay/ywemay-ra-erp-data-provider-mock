@@ -1,6 +1,6 @@
 {
   "name": "ywemay-ra-erp-data-provider-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocking data provider for tests",
   "main": "index.js",
   "repository": "https://github.com/ywemay/ywemay-ra-erp-data-provider-mock.git",
