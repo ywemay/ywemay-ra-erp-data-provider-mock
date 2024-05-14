@@ -4,7 +4,7 @@ export let people_addresses = [
    zip: '77-88-99-00', 
    city: 'Shenyang', 
    province: 'Liaoning', 
-   country: 'China', 
+   country: 'CN', 
    address: '1234, Zhonghua Road'
   },
   {
@@ -12,7 +12,7 @@ export let people_addresses = [
    zip: '34-45-56-78', 
    city: 'Chongqing', 
    province: 'Sichuan', 
-   country: 'China', 
+   country: 'CN', 
    address: '5678, Xinhua Middle Road'
   },
   {
@@ -20,7 +20,7 @@ export let people_addresses = [
    zip: '90-11-22-33', 
    city: 'Kunming', 
    province: 'Yunnan', 
-   country: 'China', 
+   country: 'CN', 
    address: '4456, Dianchi Lake Road'
   },
   {
@@ -28,7 +28,7 @@ export let people_addresses = [
    zip: '12-34-56-78', 
    city: 'Taiyuan', 
    province: 'Shanxi', 
-   country: 'China', 
+   country: 'CN', 
    address: '7890, Shuangliu Street'
   },
   {
@@ -36,7 +36,7 @@ export let people_addresses = [
    zip: '23-45-67-89', 
    city: 'Foshan', 
    province: 'Guangdong', 
-   country: 'China', 
+   country: 'CN', 
    address: '9876, Shenjia Road'
   },
   {
@@ -44,7 +44,7 @@ export let people_addresses = [
    zip: '34-56-78-90', 
    city: 'Ningbo', 
    province: 'Zhejiang', 
-   country: 'China', 
+   country: 'CN', 
    address: '1112, East Zhongshan Road'
   },
   {
@@ -52,7 +52,7 @@ export let people_addresses = [
    zip: '45-67-89-01', 
    city: 'Wuxi', 
    province: 'Jiangsu', 
-   country: 'China', 
+   country: 'CN', 
    address: '1314, West Taihu Lake Road'
   },
   {
@@ -60,7 +60,7 @@ export let people_addresses = [
    zip: '56-78-90-12', 
    city: 'Xiamen', 
    province: 'Fujian', 
-   country: 'China', 
+   country: 'CN', 
    address: '1516, South Haicang Road'
   },
   {
@@ -68,7 +68,7 @@ export let people_addresses = [
    zip: '67-89-01-13', 
    city: 'Qingdao', 
    province: 'Shandong', 
-   country: 'China', 
+   country: 'CN', 
    address: '1618, East Qingdao Bay Road'
   },
   {
@@ -76,7 +76,7 @@ export let people_addresses = [
    zip: '78-90-12-14', 
    city: 'Suzhou', 
    province: 'Jiangsu', 
-   country: 'China', 
+   country: 'CN', 
    address: '1712, West Ganquan Road'
   }
 ]
